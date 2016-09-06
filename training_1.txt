@@ -1,0 +1,34 @@
+git init
+git status
+git add  file
+git commit file
+git log
+
+i - command - esc - : w q enter
+
+git commit file. -m "komen"
+
+git diff file
+git show
+git checkout file
+
+konflik = ketika dua user / lebih 
+
+git branch //mengecek
+git branch dev_feature_chart //menambah
+
+------------------------------
+
+git init
+git add .
+git add
+git branch
+git commit
+git checkout //pindah branch
+
+git merge dev_feature_chart //posisi branch di tempat yg diinginkan
+
+ssh key untuk menkoneksikan local host pc dengan server
+* di github pengganti username dan password
+
+git config --list
